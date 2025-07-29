@@ -1,5 +1,5 @@
 
-# Estudo e Pratica
+# Estudo e Prática
 Estudando a linguagem de Python e o framework Flask.
 
 ### Descrição
